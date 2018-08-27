@@ -13,7 +13,7 @@
 
 ### Week 5 - Oct 4
 
-### Week 6 - Oct 11
+### Week 6 - Oct 11 (Midterm reviews, Session 2)
 
 ### Week 7 - Oct 18
 
@@ -25,8 +25,10 @@
 
 ### Week 11 - Nov 15
 
-### Week 12 - Nov 29
+### Week 12 - Nov 22 (Thanksgiving Holidays)
 
-### Week 13 - Dec 6
+### Week 13 - Nov 29
 
-### Week 14 - Dec 15 (Final Presentations 1:30 - 3:30 PM)
+### Week 14 - Dec 6
+
+### Week 15 - Dec 15 (Final Presentations 1:30 - 3:30 PM)
