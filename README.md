@@ -3,7 +3,7 @@
 Over the course of the semester, students will develop research projects on any particular object, technology, protocol, policy or an event they found to be expanding/related to the concepts and arguments of this project, unfolded during the theory sessions through various texts. The primary purpose of these workshops is to expand the possible array of artifacts for analysis. Additionally, students will develop skills in basic python programming, they will learn data mining techniques such as web scraping, and develop ideas on various visualization techniques and methodologies.
 
 
-&#65121; **More specific deliverables will be assigned to each team based on their project as the studio progresses.**  
+&#65121; **More specific deliverables will be assigned to each team based on their project as the seminar progresses.**  
 &#65121; **The schedule might be modified as the seminar progresses**
 
 &nbsp;
@@ -86,6 +86,9 @@ References:</br>
 
 * Image manipulation
 * Scraping a video
+
+Assignment:Re-doing Galton's “Composite portraits” exercise
+[using this tutorial as a references](https://www3.nd.edu/~pbui/teaching/cse.20289.sp17/homework04.html)
 
 Refrences: </br>
 [FFMpeg](https://ffmpeg.org/about.html)</br>
