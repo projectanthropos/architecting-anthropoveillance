@@ -87,7 +87,8 @@ References:</br>
 * Image manipulation
 * Scraping a video
 
-Assignment:Re-doing Galton's “Composite portraits” exercise
+Assignment:</br>
+Re-doing Galton's “Composite portraits” exercise
 [using this tutorial as a references](https://www3.nd.edu/~pbui/teaching/cse.20289.sp17/homework04.html)
 
 Refrences: </br>
