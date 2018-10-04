@@ -17,7 +17,7 @@ url = "https://www.tripadvisor.com/Attractions-g43323-Activities-Minneapolis_Min
 
 
 # this function will download the webpage and return the data, the html
-def featch(url):
+def fetch(url):
     response = requests.get(url)
     data = response.content
     return data
@@ -38,8 +38,8 @@ def extract_data(data):
 
 
 # this ia a wrapper function that makes use of the above two function
-def featch_items(url):
-    page = featch(url)
+def fetch_items(url):
+    page = fetch(url)
 
     soup = BeautifulSoup(page, "html.parser")
     listing = soup.findAll('div', 'listing')
@@ -50,7 +50,7 @@ def featch_items(url):
     print("1 sec to process...")
     time.sleep(1)  # after it gets all of the listings it'll pause for one sec
 
-# featch_items(url)
+# fetch_items(url)
 
 
 # AUTOMATION
@@ -59,7 +59,7 @@ def featch_items(url):
 base_url = "https://www.tripadvisor.com/Attractions-g43323-Activities-oa"
 city_url = "-Minneapolis_Minnesota.html#FILTERED_LIST"
 
-page = featch(url)  # using the function to go to html and download it to memory
+page = fetch(url)  # using the function to go to html and download it to memory
 soup = BeautifulSoup(page, "html.parser")  # parsing using beau...s package
 
 
@@ -78,6 +78,6 @@ current_page = 0
 for i in range(num_page):
     # adding two parts together with the inbetween number
     url = base_url + str(current_page) + city_url
-    featch_items(url)  # making use of the wrapper function we created earlier
+    fetch_items(url)  # making use of the wrapper function we created earlier
 
     current_page += 30  # incrementing the current_page by 30, for the new URL
