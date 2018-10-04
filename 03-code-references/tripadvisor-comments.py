@@ -23,7 +23,7 @@ def featch(url):
     return data
 
 
-# this function will pass in the html data we just got and extract certin elements out
+# this function will pass in the html data we just got and extract certain elements out
 def extract_data(data):
     name = data.findChildren('a')[0].string.strip()
 
