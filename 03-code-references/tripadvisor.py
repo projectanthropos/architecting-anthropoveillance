@@ -50,5 +50,5 @@ current_page = 0
 
 for i in range(num_page):
     url = base_url + str(current_page) + city_url
-    featch_items(url)
+    fetch_items(url)
     current_page += 30
