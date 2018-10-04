@@ -5,7 +5,7 @@ import time
 url = "https://www.tripadvisor.com/Attractions-g43323-Activities-Minneapolis_Minnesota.html"
 
 
-def featch(url):
+def fetch(url):
     response = requests.get(url)
     data = response.content
     return data
@@ -24,8 +24,8 @@ def extract_data(data):
     print('->')
 
 
-def featch_items(url):
-    page = featch(url)
+def fetch_items(url):
+    page = fetch(url)
     soup = BeautifulSoup(page, "html.parser")
     listing = soup.findAll('div', 'listing')
 
@@ -39,7 +39,7 @@ def featch_items(url):
 base_url = "https://www.tripadvisor.com/Attractions-g43323-Activities-oa"
 city_url = "-Minneapolis_Minnesota.html#FILTERED_LIST"
 
-page = featch(url)
+page = fetch(url)
 soup = BeautifulSoup(page, "html.parser")
 
 num_page = soup.findAll('div', 'pageNumbers')[0].findAll('a')[-1].string.strip()
