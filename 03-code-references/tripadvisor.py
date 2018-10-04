@@ -26,7 +26,6 @@ def extract_data(data):
 
 def featch_items(url):
     page = featch(url)
-
     soup = BeautifulSoup(page, "html.parser")
     listing = soup.findAll('div', 'listing')
 
@@ -52,5 +51,4 @@ current_page = 0
 for i in range(num_page):
     url = base_url + str(current_page) + city_url
     featch_items(url)
-
     current_page += 30
