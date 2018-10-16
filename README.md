@@ -64,6 +64,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 * parsing JSON, CSV in Rhino-Grashopper
 
 &nbsp;
+#### 10/09 (Midterm reviews, Session 1)
 ### Week 6 - Oct 11 (Midterm reviews, Session 2)
 
 &nbsp;
