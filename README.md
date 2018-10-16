@@ -17,7 +17,7 @@ Over the course of the semester, students will develop research projects on any 
  
 
 ### Week 2 - Sep 13
-**09/11 - Territory Session 1 - 001_T-1 **
+**09/11 - Territory Session 1 - 001_T-1**
 
 * Getting Started
     * Installing Python + Editors
@@ -30,7 +30,7 @@ Over the course of the semester, students will develop research projects on any 
 
 
 ### Week 3 - Sep 20
-**09/18 - Agent Session 1 - 002_A-1 **
+**09/18 - Agent Session 1 - 002_A-1**
 
 * Python basic types / Variables
 * Expressions and operators
@@ -47,7 +47,7 @@ References: </br>
 
 
 ### Week 4 - Sep 27
-**09/25 - Data Session 1 - 003_D-1 **
+#### 09/25 - Data Session 1 - 003_D-1
 
 * More on python functions
 * Simple I/O
@@ -58,7 +58,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 
 ### Week 5 - Oct 4
-**10/02 - Vector Session 1 - 004_V-1 **
+#### 10/02 - Vector Session 1 - 004_V-1
 
 * intro to the API
 * parsing JSON, CSV in Rhino-Grashopper
@@ -67,7 +67,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 
 ### Week 7 - Oct 18
-**10/16 - Territory Session 2 - 005_T-2 **
+#### 10/16 - Territory Session 2 - 005_T-2
 
 * Web Based Mapping
     * QGIS
@@ -77,7 +77,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 
 ### Week 8 - Oct 25
-**10/23 - Agent Session 2 - 006_A-2 **
+#### 10/23 - Agent Session 2 - 006_A-2
 
 * OOP General Concepts
     * Objects
@@ -96,7 +96,7 @@ References:</br>
 
 
 ### Week 9 - Nov 1
-**10/30 - Data Session 2 - 007_D-2 **
+#### 10/30 - Data Session 2 - 007_D-2
 
 * Image manipulation
 * Scraping a video
@@ -113,30 +113,30 @@ Refrences: </br>
 
 
 ### Week 10 - Nov 8
-**11/06 - Vector Session 2 - 008_V-2 **
+#### 11/06 - Vector Session 2 - 008_V-2
 
 * Optional lab/desk crits, other experimentations
 * Final project proposals / presentations
 
 
 ### Week 11 - Nov 15
-**11/13 - Territory Session 3 - 009_T-3 **
+#### 11/13 - Territory Session 3 - 009_T-3
 
 * Lab/desk crits, other experimentations
 
 
 ### Week 12 - Nov 22 (Thanksgiving Holidays Uni is Closed)
-**11/20 - Agent Session 3 - 010_A-3 **
+#### 11/20 - Agent Session 3 - 010_A-3
 
 
 ### Week 13 - Nov 29
-**11/27 - Data Session 3 - 011_D-3 **
+#### 11/27 - Data Session 3 - 011_D-3
 
 * Lab/desk crits
 
 
 ### Week 14 - Dec 6
-**12/04 - Vector Session 3 - 012_V-3 **
+#### 12/04 - Vector Session 3 - 012_V-3
 
 * Optional lab/desk crits
 
