@@ -75,26 +75,11 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 &nbsp;
 #### 03/05 - Territory Session 2 - 005_T-2
-### Week 7 - March 07 (Midterm reviews)
+### Week 7 - March 07 (Midterm reviews, Session 1)
 
 &nbsp;
 #### 03/12 - Agent Session 2 - 006_A-2
 ### Week 8 - March 11 (Midterm reviews, Session 2)
-
-* OOP General Concepts
-    * Objects
-    * The Class keyword
-    * Instance attributes / fields / data members
-    * Class object attributes
-    * Methods / member functions
-    * Bound and unbound method calls
-    * Static and class method
-* Selenium and other Automation methods
-
-Assignments:</br>
-[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)</br></br>
-References:</br>
-[Selenium Documentation](https://selenium-python.readthedocs.io/)
 
 &nbsp;
 ### Week 9 - Spring break
@@ -120,14 +105,28 @@ Refrences: </br>
 #### 04/02 - Vector Session 2 - 008_V-2
 ### Week 11 - April 4
 
-* Optional lab/desk crits, other experimentations
-* Final project proposals / presentations
+* OOP General Concepts
+    * Objects
+    * The Class keyword
+    * Instance attributes / fields / data members
+    * Class object attributes
+    * Methods / member functions
+    * Bound and unbound method calls
+    * Static and class method
+* Selenium and other Automation methods
+
+Assignments:</br>
+[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)</br></br>
+References:</br>
+[Selenium Documentation](https://selenium-python.readthedocs.io/)
+
 
 &nbsp;
 #### 04/09 - Territory Session 3 - 009_T-3
 ### Week 12 - April 11
 
-* Lab / desk crits / other experimentations
+* Optional lab/desk crits, other experimentations
+* Final project proposals / presentations
 
 &nbsp;
 #### 04/16 - Agent Session 3 - 010_A-3
