@@ -29,7 +29,7 @@ Over the course of the semester, students will develop research projects on any 
     * Document Object Model
 
 &nbsp;
-#### 02/05 - Territory Session 1 - 001_T-1
+#### 02/05 - Territory Session 1 - 002_T-1
 ### Week 3 - Feb 7
 
 * Python basic types / Variables
@@ -46,7 +46,7 @@ References: </br>
 [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/)
 
 &nbsp;
-#### 02/12 - Agent Session 1 - 002_A-1
+#### 02/12 - Agent Session 1 - 003_A-1
 ### Week 4 - Feb 14
 
 * More on python functions
@@ -57,14 +57,14 @@ References: </br>
 In class web scraping assignment: extracting a short dataset writing to a CSV file
 
 &nbsp;
-#### 02/19 - Data Session 1 - 003_D-1
+#### 02/19 - Data Session 1 - 004_D-1
 ### Week 5 - Feb 21
 
 * intro to the API
 * parsing JSON, CSV in Rhino-Grashopper
 
 &nbsp;
-#### 02/26 - Vector Session 1 - 004_V-1
+#### 02/26 - Vector Session 1 - 005_V-1
 ### Week 6 - Feb 28
 
 * Web Based Mapping
@@ -74,18 +74,18 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 * DataViz Taxonomies
 
 &nbsp;
-#### 03/05 - Territory Session 2 - 005_T-2
+#### 03/05 - Territory Session 2 - 006_T-2
 ### Week 7 - March 07 (Midterm reviews, Session 1)
 
 &nbsp;
-#### 03/12 - Agent Session 2 - 006_A-2
+#### 03/12 - Agent Session 2 - 007_A-2
 ### Week 8 - March 11 (Midterm reviews, Session 2)
 
 &nbsp;
 ### Week 9 - Spring break
 
 &nbsp;
-#### 03/26 - Data Session 2 - 007_D-2
+#### 03/26 - Data Session 2 - 008_D-2
 ### Week 10 - March 28
 
 * Image manipulation
@@ -102,7 +102,7 @@ Refrences: </br>
 [ImageMagick](https://www.imagemagick.org/script/index.php) </br>
 
 &nbsp;
-#### 04/02 - Vector Session 2 - 008_V-2
+#### 04/02 - Vector Session 2 - 009_V-2
 ### Week 11 - April 4
 
 * OOP General Concepts
@@ -122,26 +122,26 @@ References:</br>
 
 
 &nbsp;
-#### 04/09 - Territory Session 3 - 009_T-3
+#### 04/09 - Territory Session 3 - 010_T-3
 ### Week 12 - April 11
 
 * Optional lab/desk crits, other experimentations
 * Final project proposals / presentations
 
 &nbsp;
-#### 04/16 - Agent Session 3 - 010_A-3
+#### 04/16 - Agent Session 3 - 011_A-3
 ### Week 13 - April 18
 
 * Lab / desk crits / other experimentations
 
 &nbsp;
-#### 04/23 - Data Session 3 - 011_D-3
+#### 04/23 - Data Session 3 - 012_D-3
 ### Week 14 - April 25
 
 * Lab/desk crits
 
 &nbsp;
-#### 04/30 - Vector Session 3 - 012_V-3
+#### 04/30 - Vector Session 3 - 013_V-3
 ### Week 15 - May 2
 
 * Optional lab/desk crits
