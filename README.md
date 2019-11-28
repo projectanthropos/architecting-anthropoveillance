@@ -11,13 +11,7 @@ Over the course of the semester, students will develop research projects on any 
 
 ## Schedule
 
-### Week 1 - Jan 24
-
-* Course Introduction / a working hypothesis 
- 
-&nbsp;
-#### 01/29 - The Medium of Theory - 001_M
-### Week 2 - Jan 31
+### Week 2 - 01/29
 
 * Getting Started
     * Installing Python + Editors
@@ -27,10 +21,9 @@ Over the course of the semester, students will develop research projects on any 
 * Basics of HTML and CSS
 * Chrome DevTools
     * Document Object Model
-
+ 
 &nbsp;
-#### 02/05 - Territory Session 1 - 002_T-1
-### Week 3 - Feb 7
+### Week 3 - 02/05
 
 * Python basic types / Variables
 * Expressions and operators
@@ -46,8 +39,7 @@ References: </br>
 [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/)
 
 &nbsp;
-#### 02/12 - Agent Session 1 - 003_A-1
-### Week 4 - Feb 14
+### Week 4 - 02/12
 
 * More on python functions
 * Simple I/O
@@ -57,53 +49,27 @@ References: </br>
 In class web scraping assignment: extracting a short dataset writing to a CSV file
 
 &nbsp;
-#### 02/19 - Data Session 1 - 004_D-1
-### Week 5 - Feb 21
+### Week 5 - 02/19
 
 * intro to the API
 * parsing JSON, CSV in Rhino-Grashopper
 
 &nbsp;
-#### 02/26 - Vector Session 1 - 005_V-1
-### Week 6 - Feb 28
+### Week 6 - 02/26
 
-* Web Based Mapping
-    * QGIS
-    * CARTO DB
-    * MapBox
-* DataViz Taxonomies
+* Lab / desk crits / other experimentations
 
 &nbsp;
-#### 03/05 - Territory Session 2 - 006_T-2
-### Week 7 - March 07 (Midterm reviews, Session 1)
+
+
+### Week 7 - 03/02, 03/04 (Midterm reviews)
 
 &nbsp;
-#### 03/12 - Agent Session 2 - 007_A-2
-### Week 8 - March 11 (Midterm reviews, Session 2)
+
+### Week 8 - Spring break
 
 &nbsp;
-### Week 9 - Spring break
-
-&nbsp;
-#### 03/26 - Data Session 2 - 008_D-2
-### Week 10 - March 28
-
-* Image manipulation
-* Scraping a video
-
-Assignment:</br>
-Re-doing Galton's “Composite portraits” exercise
-[using this tutorial as a references](https://www3.nd.edu/~pbui/teaching/cse.20289.sp17/homework04.html)
-
-Refrences: </br>
-[FFMpeg](https://ffmpeg.org/about.html)</br>
-[MoviePy](http://zulko.github.io/moviepy/)</br>
-[Pillow](https://pillow.readthedocs.io/en/4.0.x/) </br>
-[ImageMagick](https://www.imagemagick.org/script/index.php) </br>
-
-&nbsp;
-#### 04/02 - Vector Session 2 - 009_V-2
-### Week 11 - April 4
+### Week 9 - 03/18
 
 * OOP General Concepts
     * Objects
@@ -120,30 +86,53 @@ Assignments:</br>
 References:</br>
 [Selenium Documentation](https://selenium-python.readthedocs.io/)
 
+&nbsp;
+
+### Week 10 - 03/25
+
+* Image manipulation
+* Scraping a video
+
+Assignment:</br>
+Re-doing Galton's “Composite portraits” exercise
+[using this tutorial as a references](https://www3.nd.edu/~pbui/teaching/cse.20289.sp17/homework04.html)
+
+Refrences: </br>
+[FFMpeg](https://ffmpeg.org/about.html)</br>
+[MoviePy](http://zulko.github.io/moviepy/)</br>
+[Pillow](https://pillow.readthedocs.io/en/4.0.x/) </br>
+[ImageMagick](https://www.imagemagick.org/script/index.php) </br>
 
 &nbsp;
-#### 04/09 - Territory Session 3 - 010_T-3
-### Week 12 - April 11
+### Week 11 - 04/01
+
+* Web Based Mapping
+    * QGIS
+    * CARTO DB
+    * MapBox
+* DataViz Taxonomies
+
+* Lab / desk crits / other experimentations
+
+&nbsp;
+### Week 12 - 04/08
 
 * Optional lab/desk crits, other experimentations
 * Final project proposals / presentations
 
 &nbsp;
-#### 04/16 - Agent Session 3 - 011_A-3
-### Week 13 - April 18
+### Week 13 - 04/15
 
 * Lab / desk crits / other experimentations
 
 &nbsp;
-#### 04/23 - Data Session 3 - 012_D-3
-### Week 14 - April 25
+### Week 14 - 04/22
 
 * Lab/desk crits
 
 &nbsp;
-#### 04/30 - Vector Session 3 - 013_V-3
-### Week 15 - May 2
+### Week 15 - 04/29
 
 * Optional lab/desk crits
 
-### Week 15 - Dec 15 (Final Presentations 1:30 - 3:30 PM)
+### Week 16 (Final Presentations 1:30 - 3:30 PM)
